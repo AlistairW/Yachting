@@ -45,3 +45,15 @@ a{
   text-decoration: none;
 }
 
+@media only screen and (max-width: 400px) {
+  .menu-options{
+    color: #45BAB4;
+    font-size: 0.9em;
+  }
+  #navContainer{
+    height: 7vh;
+    padding-top: 15px;
+    left: 50%;
+  }
+}
+
