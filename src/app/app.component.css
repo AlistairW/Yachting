@@ -10,7 +10,7 @@
   right: 4%;
   width: 40%;
 }
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 600px) {
   #imageContainer{
     padding-top: 1px;
   }
