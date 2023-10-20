@@ -1,0 +1,12 @@
+#imageContainer{
+}
+#picture{
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+  padding-top: 1em;
+  position: relative;
+  right: 4%;
+  width: 40%;
+}
+
